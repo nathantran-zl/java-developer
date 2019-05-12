@@ -217,7 +217,9 @@
 6. Repositories
     *   A repository is a directory where all the project jars, library jar, plugins or any other project specific artifacts are stored and can be used by Maven easily.
     *   Types: 3
+
 	![Maven Repositories](https://www.tutorialspoint.com/maven/images/repository_structure.jpg)
+
         *   Local Repo
             *   Maven local repository is a folder location on the machine
             *   Maven local repository keeps the project's all dependencies (library jars, plugin jars, etc.)
